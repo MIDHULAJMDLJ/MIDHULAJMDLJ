@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MIDHULAJMDLJ
+- 👋 Hi, I’m MIDHULAJ PUTHIYANDI
 - 👀 I’m interested in Software Testing and Software Development
 - 🌱 I’m currently learning Software testing
 - 💞️ I’m looking to collaborate on Software testing
