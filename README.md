@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing and Software Development
 - 🌱 I’m currently learning Software testing
 - 💞️ I’m looking to collaborate on Software testing
-- 📫 How to reach me +918129003321
+- 📫 Reach me +918129003321
 
 <!---
 MIDHULAJMDLJ/MIDHULAJMDLJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
